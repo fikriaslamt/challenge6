@@ -1,11 +1,12 @@
 **simple book restAPI
 
 fitur :
-> getAllBooks
-> getBookById
-> addBook
-> updateBook
-> deleteBook
+>
+- getAllBooks
+- getBookById
+- addBook
+- updateBook
+- deleteBook
 
 
 **test result with Postman
